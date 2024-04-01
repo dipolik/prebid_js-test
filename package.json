@@ -1,0 +1,16 @@
+{
+    "devDependencies": {
+        "chai": "^5.1.0",
+        "mocha": "^10.4.0"
+    },
+    "scripts": {
+        "start-mock-server": "cd mock-server && node server.js",
+        "start": "http-server"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "prebid.js": "^8.42.0",
+        "http-server": "^14.1.1"
+    }
+}

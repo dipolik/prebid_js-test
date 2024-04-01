@@ -1,6 +1,5 @@
 # Prebid.js test task (Advertise X Bid Adapter)
 
-
 **1. First, you need to install dependencies using npm. Run the following command in your terminal:**
 ```
 npm install
